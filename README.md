@@ -2,7 +2,9 @@
 
 <h3 align="center">📊 Aspiring Data Analyst | Python | SQL | Excel | Power BI</h3>
 
-> Turning data into meaningful insights and building practical data analytics projects.
+<p align="center">
+  Turning data into meaningful insights and building practical data analytics projects.
+</p>
 
 ---
 
@@ -88,5 +90,5 @@ To start my career as a **Data Analyst** and use data-driven insights to solve r
 ---
 
 <p align="center">
-⭐ If you find my projects useful, feel free to explore my repositories!
+  ⭐ If you find my projects useful, feel free to explore my repositories!
 </p>
