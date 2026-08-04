@@ -1,6 +1,6 @@
-# Hi 👋, I'm Kamlesh Kumar
+<h1 align="center">Hi 👋, I'm Kamlesh Kumar</h1>
 
-### 📊 Aspiring Data Analyst | Python | SQL | Excel | Power BI
+<h3 align="center">📊 Aspiring Data Analyst | Python | SQL | Excel | Power BI</h3>
 
 > Turning data into meaningful insights and building practical data analytics projects.
 
@@ -22,10 +22,12 @@
 ## 🛠️ Technical Skills
 
 ### Programming & Querying
+
 - 🐍 Python
 - 🗄️ SQL
 
 ### Data Analytics & Visualization
+
 - 📊 Microsoft Excel
 - 📈 Power BI
 - 📉 Data Visualization
@@ -33,6 +35,7 @@
 - 📋 Pivot Tables
 
 ### Tools
+
 - 🔧 Git & GitHub
 - 📓 Jupyter Notebook
 - 💻 VS Code
@@ -42,16 +45,19 @@
 ## 🚀 Featured Projects
 
 ### ☕ Coffee Shop Sales Dashboard — Power BI
+
 Interactive dashboard analyzing **149K+ transactions** to understand sales trends, product performance and customer behavior.
 
 **Tools:** Power BI | Excel | DAX
 
 ### ☕ Coffee Shop Sales — Excel Dashboard
+
 Interactive Excel dashboard using Pivot Tables, Charts and data visualization techniques.
 
 **Tools:** Microsoft Excel | Pivot Tables | Charts
 
 ### 🚆 Train Rides Dashboard
+
 Interactive dashboard designed to analyze train operations, ticket sales, revenue and ride performance.
 
 **Tools:** Microsoft Excel | Data Analysis | Dashboard
@@ -81,4 +87,6 @@ To start my career as a **Data Analyst** and use data-driven insights to solve r
 
 ---
 
+<p align="center">
 ⭐ If you find my projects useful, feel free to explore my repositories!
+</p>
