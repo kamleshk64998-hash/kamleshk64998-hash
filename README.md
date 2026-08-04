@@ -84,7 +84,7 @@ To start my career as a **Data Analyst** and use data-driven insights to solve r
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/)
+- 💼 LinkedIn: [Kamlesh Kumar](https://www.linkedin.com/in/kamleshkumar325/)
 - 🐙 GitHub: [kamleshk64998-hash](https://github.com/kamleshk64998-hash)
 
 ---
